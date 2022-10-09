@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu_makanan>
+    <menu>
+        <nama>Indomie Goreng</nama>
+        <harga>Rp. 3500</harga>
+        <description>Makanan favorite seluruh orang di dunia.</description>
+    </menu>
+    <menu>
+        <nama>Pecel Lele</nama>
+        <harga>Rp. 20000</harga>
+        <description>Makanan berat yang sangat diminati oleh orang, dan rasanya yang enak dan bergizi</description>
+    </menu>
+    <menu>
+        <nama>Bakso</nama>
+        <harga>Rp. 15000</harga>
+        <description>Bakso merupakan makanan yang akan berkuah, dinikmati saat masih hangat dan harganya yang terjangkau.</description>
+    </menu>
+</menu_makanan>
