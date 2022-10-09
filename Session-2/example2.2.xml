@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datapegawai>
+    <data>
+        <nip>09101</nip>
+        <nama>John Son</nama>
+        <golongan>Golongan I</golongan>
+    </data>
+    <data>
+        <nip>09102</nip>
+        <nama>Wicka Salim</nama>
+        <golongan>Golongan II</golongan>
+    </data>
+    <data>
+        <nip>09103</nip>
+        <nama>Albertus</nama>
+        <golongan>Golongan III</golongan>
+    </data>
+    <data>
+        <nip>09104</nip>
+        <nama>Bayu Afif Nuranto</nama>
+        <golongan>Golongan IV</golongan>
+    </data>
+    <data>
+        <nip>09105</nip>
+        <nama>Kato Megumi</nama>
+        <golongan>Golongan V</golongan>
+    </data>
+</datapegawai>
