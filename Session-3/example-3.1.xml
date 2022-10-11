@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mahasiswa [
+	<!ELEMENT mahasiswa (nim, nama, jurusan, alamat, telp)>
+	<!ELEMENT nim (#PCDATA)>
+	<!ELEMENT nama(nama_depan, nama_belakang)>
+	<!ELEMENT nama_depan(#PCDATA)>
+	<!ELEMENT nama_belakang(#PCDATA)>
+	<!ELEMENT jurusan(#PCDATA)>
+	<!ELEMENT alamat(#PCDATA)>
+	<!ELEMENT telp(#PCDATA)>
+]>
+
+<mahasiswa>
+	<nim>2020230903</nim>
+	<nama>
+		<nama_depan>Bayu Afif</nama_depan>
+		<nama_belakang>Nuranto</nama_belakang>
+	</nama>
+	<jurusan>Teknologi Informasi</jurusan>
+	<alamat>Jakarta</alamat>
+	<telp>+6281215430175</telp>
+</mahasiswa>
