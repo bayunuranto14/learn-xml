@@ -49,3 +49,8 @@ dapat dituliskan dengan menambahkan tanda berikut pada akhir nama element.
 
 ## E. Any
 Any ini mengizinkan apapun dapat beradda pada suatu element.
+
+
+- ###  Deklarasi Atribut
+Sama seperti elemen, dokumen dikatakan valid, jika dapat menyatakan semua atribut elemen jika elemennya memiliki atribut. Sintaks penulisannya dengan ATTLIST. contohnya ada di **example-3.2.xml**.
+

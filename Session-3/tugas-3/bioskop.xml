@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bioskop SYSTEM "film.dtd">
+<film>
+	<data>
+		<judul>KALIAN PANTAS MATI</judul>
+		<pemain>Emir Mahira, Zee JKT48, Gaby Warouw, Andrew Barret, Farandika</pemain>
+		<sutradara>Ginanti Rona</sutradara>
+		<kategori>Horror</kategori>
+		<produser>Robert Ronny</produser>
+		<tahunproduksi>2022</tahunproduksi>
+	</data>
+	<data>
+		<judul>HALOWEEN ENDS</judul>
+		<pemain>Jamie Lee Curtis, Andi Matichak, Will Patton</pemain>
+		<sutradara>Imam Santoso</sutradara>
+		<kategori>Thriller</kategori>
+		<produser>David Gordon Green</produser>
+		<tahunproduksi>2023</tahunproduksi>
+	</data>
+	<data>
+		<judul>KALIAN PANTAS HIDUP</judul>
+		<pemain>Gaby Warouw, Farandika, Andrew Barret</pemain>
+		<sutradara>Ronaldowati</sutradara>
+		<kategori>Thriller</kategori>
+		<produser>Andi Matichak</produser>
+		<tahunproduksi>2022</tahunproduksi>
+	</data>
+	<data>
+		<judul>INANG</judul>
+		<pemain>Rukman Rosadi, Dimas Anggara, Rania Putrisari</pemain>
+		<sutradara>Fajar Nugros</sutradara>
+		<kategori>Thriller</kategori>
+		<produser>Deo Mahameru</produser>
+		<tahunproduksi>2023</tahunproduksi>
+	</data>
+</film>

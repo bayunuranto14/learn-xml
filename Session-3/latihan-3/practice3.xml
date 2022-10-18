@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mahasiswa SYSTEM "mahasiswa.dtd">
+
+<mahasiswa>
+    <nim>101110</nim>
+    <nama>
+        <nama_depan>Udin</nama_depan>
+        <nama_belakang>Syamsudin</nama_belakang>
+    </nama>
+</mahasiswa>

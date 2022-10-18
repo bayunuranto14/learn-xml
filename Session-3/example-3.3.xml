@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE orang [
+    <!ELEMENT orang (nama, email)>
+    <!ELEMENT nama (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ENTITY mail "lecturer@example.com">
+]>
+
+<orang>
+    <nama>Moh. Imron</nama>
+    <email>$mail;</email>
+</orang>

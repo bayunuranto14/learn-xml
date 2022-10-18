@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE orang [
+    <!ELEMENT orang (nama)>
+    <!ELEMENT nama (#PCDATA)>
+    <!ATTLIST nama
+        profesi CDATA #REQUIRED
+        hobi CDATA "Belajar" umur CDATA  #IMPLIED jenis_kelamin CDATA #FIXED "pria"
+    >
+]>
+
+<orang>
+    <nama profesi="Dosen">Moh. Imron</nama>
+</orang>

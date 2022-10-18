@@ -1,0 +1,7 @@
+<!ELEMENT film (judul, pemain, sutradara, kategori, produser, tahunproduksi)>
+<!ELEMENT judul (#PCDATA)>
+<!ELEMENT pemain (#PCDATA)>
+<!ELEMENT sutradara (#PCDATA)>
+<!ELEMENT kategori (#PCDATA)>
+<!ELEMENT produser (#PCDATA)>
+<!ELEMENT tahunproduksi (#PCDATA)>
